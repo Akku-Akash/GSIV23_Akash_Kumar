@@ -1,0 +1,10 @@
+.landing {
+    /* border: 2px solid red; */
+    width: 95%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px 2%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
